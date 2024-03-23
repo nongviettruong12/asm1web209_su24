@@ -1,0 +1,13 @@
+{
+  "products": [
+    {"id":1, "name": "Havic HV G-921 GamePad", "price":1921.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":2, "name": "Havic HV G-922 GamePad", "price":1922.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":3, "name": "Havic HV G-923 GamePad", "price":1923.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":4, "name": "Havic HV G-924 GamePad", "price":1924.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":5, "name": "Havic HV G-925 GamePad", "price":1925.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":6, "name": "Havic HV G-926 GamePad", "price":1926.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":7, "name": "Havic HV G-927 GamePad", "price":1927.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
+    {"id":8, "name": "Havic HV G-928 GamePad", "price":1928.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"building","description": "Havic HV G-92 Game"}
+  ]
+    
+}

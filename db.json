@@ -1,13 +1,107 @@
 {
   "products": [
-    {"id":1, "name": "Havic HV G-921 GamePad", "price":1921.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":2, "name": "Havic HV G-922 GamePad", "price":1922.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":3, "name": "Havic HV G-923 GamePad", "price":1923.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":4, "name": "Havic HV G-924 GamePad", "price":1924.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":5, "name": "Havic HV G-925 GamePad", "price":1925.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":6, "name": "Havic HV G-926 GamePad", "price":1926.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":7, "name": "Havic HV G-927 GamePad", "price":1927.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"relax","description": "Havic HV G-92 Game"},
-    {"id":8, "name": "Havic HV G-928 GamePad", "price":1928.00,"image":"https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg","brand":"building","description": "Havic HV G-92 Game"}
+    {
+      "id": 1,
+      "name": "Havic HV G-921 GamePad",
+      "price": 1921,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 2,
+      "name": "Havic HV G-922 GamePad",
+      "price": 1922,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 3,
+      "name": "Havic HV G-923 GamePad",
+      "price": 1923,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 4,
+      "name": "Havic HV G-924 GamePad",
+      "price": 1924,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 5,
+      "name": "Havic HV G-925 GamePad",
+      "price": 1925,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 6,
+      "name": "Havic HV G-926 GamePad",
+      "price": 1926,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 7,
+      "name": "Havic HV G-927 GamePad",
+      "price": 1927,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "relax",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "id": 8,
+      "name": "Havic HV G-928 GamePad",
+      "price": 1928,
+      "image": "https://hanoicomputercdn.com/media/product/77517_may_choi_game_sony_playstation_5_ps5_slim_digital_1.jpg",
+      "brand": "building",
+      "description": "Havic HV G-92 Game"
+    },
+    {
+      "name": "macbook update",
+      "image": "https://mediamart.vn/chuot/chuot-game-logitech-g102",
+      "price": "111111111",
+      "brand": "abc",
+      "description": "abcccccccc",
+      "id": 9
+    },
+    {
+      "name": "san pham 1 update",
+      "image": "abccc",
+      "price": "1999999",
+      "brand": "thuchanh",
+      "description": "abc",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "email": "ngunguoils01@gmail.com",
+      "password": "$2a$10$MsVlexMeHN1xxO.hSLCFruxynXxayagG7cuq/KY/d7U/Ims5BZmKq",
+      "name": "truong dep trai",
+      "phone": "0888685163",
+      "id": 1
+    },
+    {
+      "email": "vaivip@gmail.com",
+      "password": "$2a$10$nkXS0tSk0B5JwqPb3LB6xeRosL3hfUXRgw51O9QftIytDHgAjokTG",
+      "name": "aduvip",
+      "phone": "08886851633",
+      "id": 2
+    },
+    {
+      "email": "ransomeware@gmail.com",
+      "password": "$2a$10$gGN.pA4hq7rbJ3zEs12PWe6.gMHj5X4YrXgND1BvhVTqVEKnI/QwC",
+      "name": "abc",
+      "phone": "0888685163",
+      "id": 3
+    }
   ]
-    
 }
